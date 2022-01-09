@@ -1,12 +1,11 @@
 {
   "name": "@spinlud/spiritswap-sdk",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🛠 An SDK for building applications on top of SpiritSwap.",
   "main": "dist/index.js",
   "module": "dist/sdk.esm.js",
   "typings": "dist/index.d.ts",
-  "private": true,
   "files": [
     "dist"
   ],
